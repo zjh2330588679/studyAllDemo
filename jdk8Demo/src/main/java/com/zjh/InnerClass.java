@@ -18,5 +18,6 @@ class InnerClass {
         clazz clazz = innerClass.new clazz();
         clazz.printMethod();
         System.out.println("six");
+        System.out.println(666);
     }
 }
